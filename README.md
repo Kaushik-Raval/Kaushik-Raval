@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 **Languages & Frameworks:**
-- Kotlin, Android SDK, Jetpack Compose, KMP, CMP
+- Kotlin, Jetpack Compose, KMP, CMP
 
 **Architecture & Tools:**
 - MVVM, Clean Architecture
